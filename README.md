@@ -51,7 +51,7 @@ The dataset used in this project is `pizza_sales.csv`. It contains transactional
 
 1. Clone the repository:
 bash
-git clone https://github.com/Sagarkumar2309/pizza-sales-analysis.git
+git clone https://github.com/Sagarkumar2309/Data-Analysis-Project1-Pizza-Sales-Analysis.git
 2. Load `pizza_sales.csv` into your SQL database.
 3. Run the SQL queries from this README or the provided `.sql`/`.docx` file.
 
